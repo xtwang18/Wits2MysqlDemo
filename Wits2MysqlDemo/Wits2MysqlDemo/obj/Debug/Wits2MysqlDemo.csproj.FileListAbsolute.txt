@@ -1,0 +1,9 @@
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.exe.config
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.exe
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.pdb
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csprojAssemblyReference.cache
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csproj.CoreCompileInputs.cache
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.exe
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.pdb
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\MySql.Data.dll
+C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csproj.CopyComplete
