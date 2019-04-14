@@ -12,6 +12,7 @@ namespace Wits2MysqlDemo
         public IPAddress iP { get; set; }
         public IPEndPoint ipe { get; set; }
         public Socket clientSocket { get; set; }
+        public string recMsg;
         public recvServerData(string host,int port) {
             iP = IPAddress.Parse(host);
             ipe = new IPEndPoint(iP,port);
@@ -21,7 +22,7 @@ namespace Wits2MysqlDemo
             try
             {
                 clientSocket.Connect(ipe);
-                Console.WriteLine("Connected.");
+                Console.WriteLine("Connected to Wits Server.");
             }
             catch (SocketException e) {
                 Console.WriteLine("Fail Connect to Server -{0}",e.ToString());
@@ -31,9 +32,11 @@ namespace Wits2MysqlDemo
         public void CloseConnection() {
             clientSocket.Close();
         }
-        public string GetData() {
-
-            return null;
+        public void GetData() {
+            byte[] recByte = new byte[4096];
+            int bytes = clientSocket.Receive(recByte,recByte.Length,0);
+            recMsg = System.Text.Encoding.Default.GetString(recByte,0,bytes);
+            
         }       
     }
 }

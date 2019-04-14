@@ -7,3 +7,14 @@ C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\D
 C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.pdb
 C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\MySql.Data.dll
 C:\Users\CAS\Documents\GitHub\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csproj.CopyComplete
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.exe.config
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.exe
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Wits2MysqlDemo.pdb
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\MySql.Data.dll
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\Google.Protobuf.dll
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\bin\Debug\MySql.Data.xml
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csprojAssemblyReference.cache
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csproj.CoreCompileInputs.cache
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.csproj.CopyComplete
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.exe
+E:\ProgramData\Github\Wits2MysqlDemo\Wits2MysqlDemo\Wits2MysqlDemo\obj\Debug\Wits2MysqlDemo.pdb
